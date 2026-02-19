@@ -1,4 +1,4 @@
-import { googleSheets } from 'https://gael-mgn.github.io/js/google-sheets.js';
+import { googleSheets } from 'https://gael-maignan.github.io/js/google-sheets.js';
 const ID_Sheet = "11cwEfj8x5KkiX9z5081IN25xVCUD49bIaP0ltizI6l8";
 
 window.onload = () => {
@@ -52,7 +52,7 @@ window.onload = () => {
   }
 }
 
-  //import { googleSheets } from 'https://gael-mgn.github.io/js/google-sheets.js';
+  //import { googleSheets } from 'https://gael-maignan.github.io/js/google-sheets.js';
   
 
 
